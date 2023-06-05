@@ -1,0 +1,21 @@
+body{
+    margin: 0 auto;
+    background-image: url("back.jpg");
+    color: brown;
+}
+
+.container{
+    margin: 50px auto;
+    padding: 5px 5px;
+    /* background-color: yellow; */
+    width:300px;
+    /* text-align: center; */
+}
+button{
+    display: block;
+    color: brown;
+    font-weight: bold;
+    margin: 5px;
+    border: 2px rgb(161, 99, 55) solid;
+    border-radius: 5px;
+}
